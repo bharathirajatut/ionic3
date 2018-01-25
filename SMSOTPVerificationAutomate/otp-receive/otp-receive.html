@@ -1,0 +1,20 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>
+            OTP Receive Page
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+
+    <ion-item>
+        <ion-label floating>Enter OTP</ion-label>
+        <ion-input type="number" [(ngModel)]="otp"></ion-input>
+    </ion-item>
+
+    <button ion-button (click)="verifyOTP()">Verify</button>
+    <button ion-button (click)="checkPermission()">Receive SMS</button>
+
+</ion-content>

@@ -1,0 +1,20 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>
+            Ionic Mobile Number Verification
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+
+    <ion-item>
+        <ion-label floating>Enter Mobile Number</ion-label>
+        <ion-input type="text" [(ngModel)]="mobile"></ion-input>
+    </ion-item>
+
+    <button ion-button (click)="sendOTP()">Send OTP</button>
+
+
+</ion-content>
