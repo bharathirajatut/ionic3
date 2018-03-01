@@ -1,0 +1,19 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>
+            Ionic Blank
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+    <ion-card *ngFor="let video of videos">
+        <ion-card-header>
+            {{video.title}}
+        </ion-card-header>
+        <ion-card-content>
+            <iframe width="100%" height="300" [src]="video.url | youtube" frameborder="0" allowfullscreen></iframe>
+        </ion-card-content>
+    </ion-card>
+</ion-content>
