@@ -9,3 +9,9 @@ You can follow this repo to get more tested and working script for the Ionic 3.
 You can find more tutorials for Ionic 3 using
 
 https://ampersandacademy.com/tutorials/ionic-framework-3
+
+
+Other Repo related to Ionic
+
+1. Tinder application cards 
+https://ampersandacademy.com/tutorials/ionic-framework-3/ionic-3-tinder-like-cards
