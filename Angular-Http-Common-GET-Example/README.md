@@ -15,11 +15,15 @@ https://randomuser.me/api/?results=5
 
 2. Create provider
 
-`
-cd demo
+` cd demo `
 
-ionic g provider user
-`
+` ionic g provider user `
+
+# Learn Ionic 3
+
+https://ampersandacademy.com/tutorials/ionic-framework-3
+
+https://ampersandacademy.com/tutorials/ionic-framework-version-2
 
 # Demo
 
