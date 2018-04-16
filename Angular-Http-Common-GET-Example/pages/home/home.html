@@ -1,0 +1,23 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>
+            Ionic Blank
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+    <button ion-button (click)="get()">Load Data</button>
+
+    <ion-list>
+        <ion-item *ngFor="let x of users">
+            <ion-avatar item-start>
+                <img src="{{x.picture.medium}}">
+            </ion-avatar>
+            <h2>{{x.name.title}}.{{x.name.first}}</h2>
+            <p>{{x.email}}</p>
+        </ion-item>
+    </ion-list>
+
+</ion-content>
