@@ -15,3 +15,7 @@ Other Repo related to Ionic
 
 1. Tinder application cards 
 https://ampersandacademy.com/tutorials/ionic-framework-3/ionic-3-tinder-like-cards
+
+2. Tinder demo app(UI Only)
+
+https://github.com/bharathirajatut/tinder-ui
