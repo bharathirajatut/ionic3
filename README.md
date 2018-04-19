@@ -11,10 +11,12 @@ You can find more tutorials for Ionic 3 using
 https://ampersandacademy.com/tutorials/ionic-framework-3
 
 
-Other Repo related to Ionic
+# Other Repo related to Ionic
 
 1. Tinder application cards 
+
 https://ampersandacademy.com/tutorials/ionic-framework-3/ionic-3-tinder-like-cards
+
 
 2. Tinder demo app(UI Only)
 
