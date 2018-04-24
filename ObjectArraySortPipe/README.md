@@ -21,12 +21,12 @@ Add the pipe to app.module.ts file
 Create html view using the reverse.
 
 ```
-<ion-item *ngFor="let myObj of myArr | reverse:'fieldName'">
+<ion-item *ngFor="let myObj of myArr | ascending:'fieldName'">
 
 </ion-item>
 ```
 
-Here reverse is the pipe name.
+Here ascending is the pipe name.
 
 fieldName will be your object property name
 
