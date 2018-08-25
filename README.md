@@ -21,3 +21,10 @@ https://ampersandacademy.com/tutorials/ionic-framework-3/ionic-3-tinder-like-car
 2. Tinder demo app(UI Only)
 
 https://github.com/bharathirajatut/tinder-ui
+
+# Angular Material 6 Free Theme
+
+https://github.com/bharathirajatut/angular-material-6-theme
+
+https://ampersandacademy.com/angular-material-6-theme/
+
