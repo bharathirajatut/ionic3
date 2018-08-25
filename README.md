@@ -22,6 +22,10 @@ https://ampersandacademy.com/tutorials/ionic-framework-3/ionic-3-tinder-like-car
 
 https://github.com/bharathirajatut/tinder-ui
 
+# Ionic 4 is on the way
+
+Again i will try to execute different concept on Ionic 4 and will publish the code. 
+
 # Angular Material 6 Free Theme
 
 https://github.com/bharathirajatut/angular-material-6-theme
