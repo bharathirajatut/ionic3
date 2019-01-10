@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/{username}/{project}.svg)](http://hits.dwyl.io/{username}/{project})
+
 # ionic3
 
 This repository contains complete source code for Ionic 3 tutorial from https://ampersandacademy.com/tutorials/ionic-framework-3.
