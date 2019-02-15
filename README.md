@@ -1,5 +1,10 @@
 [![HitCount](http://hits.dwyl.io/{username}/{project}.svg)](http://hits.dwyl.io/{username}/{project})
 
+# Ionic4 Book
+
+Hi I am writing a book for Ionic4. Will be released soon.
+
+<a href="https://ampersandacademy.com/publications/">Book Link</a>
 # ionic3
 
 This repository contains complete source code for Ionic 3 tutorial from https://ampersandacademy.com/tutorials/ionic-framework-3.
