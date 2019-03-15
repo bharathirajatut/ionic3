@@ -5,6 +5,13 @@
 Hi I am writing a book for Ionic4. Will be released soon.
 
 <a href="https://ampersandacademy.com/publications/">Book Link</a>
+
+# Ionic 4 Tutorial
+
+Get All the Ionic 4 tutorials and sample from the below link.
+
+https://github.com/bharathirajatut/ionic4
+
 # ionic3
 
 This repository contains complete source code for Ionic 3 tutorial from https://ampersandacademy.com/tutorials/ionic-framework-3.
@@ -29,9 +36,6 @@ https://ampersandacademy.com/tutorials/ionic-framework-3/ionic-3-tinder-like-car
 
 https://github.com/bharathirajatut/tinder-ui
 
-# Ionic 4 Tutorial
-
-https://github.com/bharathirajatut/ionic4
 
 # Angular Material 6 Free Theme
 
