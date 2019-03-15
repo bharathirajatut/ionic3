@@ -8,7 +8,7 @@ Hi I am writing a book for Ionic4. Will be released soon.
 
 # Ionic 4 Tutorial
 
-Get All the Ionic 4 tutorials and sample from the below link.
+Get All the Ionic 4 tutorials and sample code from the below link.
 
 https://github.com/bharathirajatut/ionic4
 
