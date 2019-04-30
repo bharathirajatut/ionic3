@@ -24,6 +24,18 @@ You can find more tutorials for Ionic 3 using
 
 https://ampersandacademy.com/tutorials/ionic-framework-3
 
+## Enroll Ionic 4 Classroom Training
+
+<img src="https://raw.githubusercontent.com/bharathirajatut/ionic4/master/i4.png">
+
+At Ampersand Academy, I am giving Ionic 4 training. If you are interested to join, Please visit the below link.
+https://ampersandacademy.com/contact-ampersand-academy-chennai.html
+
+## Download Ionic 4Curriculum
+
+https://ampersandacademy.com/course/ionic-4-framework-training.html
+
+
 
 # Other Repo related to Ionic
 
